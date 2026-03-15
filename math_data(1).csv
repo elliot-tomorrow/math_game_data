@@ -1,16 +1,16 @@
 Num_Picked,CN,Section,Date,Event
-3,18,Diamond,03/02/26,Incompatible Host
-4,23,Diamond,03/02/26,The Most Loyal Servants of Ra
-5,20,Diamond,03/02/26,Incompatible Host
-2,28,Emerald,03/02/26,Second in Command
-2,13,Emerald,03/02/26,Guard Duty
-2,6,Emerald,03/02/26,Demon Days
-2,12,Sapphire,03/02/26,Envy
-2,22,Sapphire,03/02/26,The Most Loyal Servants of Ra
-2,11,Sapphire,03/02/26,Divine Words
-21,12,Sapphire,02/26/26,Curse of King Tut
-41,22,Sapphire,02/26/26,Dark Side of the Moon
-31,13,Diamond,03/06/26,Second in Command
-18,18,Diamond,03/06/26,Malevolent Advice
-9,28,Sapphire,03/06/26,Rising Chaos
-11,30,Sapphire,03/06/26,Ren
+3,18,1,03/02/26,Incompatible Host
+4,23,1,03/02/26,The Most Loyal Servants of Ra
+5,20,1,03/02/26,Incompatible Host
+2,28,2,03/02/26,Second in Command
+2,13,2,03/02/26,Guard Duty
+2,6,2,03/02/26,Demon Days
+2,12,3,03/02/26,Envy
+2,22,3,03/02/26,The Most Loyal Servants of Ra
+2,11,3,03/02/26,Divine Words
+21,12,3,02/26/26,Curse of King Tut
+41,22,3,02/26/26,Dark Side of the Moon
+31,13,1,03/06/26,Second in Command
+18,18,1,03/06/26,Malevolent Advice
+9,28,3,03/06/26,Rising Chaos
+11,30,3,03/06/26,Ren
